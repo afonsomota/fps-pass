@@ -9,10 +9,10 @@ NOTE FOR THE REVIEWING PROCESS: the code is only meant to be publicly available 
 
 In order to run a simulation import the Simulation class from Simulator.py module, instanciate the Simulation class and use the run method:
 
-´´´
+´
 from Simulator import Simulation
 
 sim = Simulation()
 sim.run()
 
-´´´
+´
